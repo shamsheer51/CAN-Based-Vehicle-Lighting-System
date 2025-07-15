@@ -17,11 +17,6 @@ in Keil.
 
 > **NOTE:** This implementation of Embedded-C code is targetted towards LPC2129 microcontroller. To run in the other it requires some slight modifications so refer your microcontroller datasheet accordingly
 
-## Block Diagram
-<div align="center">
-<img src="Demo.png" alt="Project Architecture" width="1000" />
-</div>
-
 Here is the following Data frame details:
 
 **Left Indicator Data Frame:**
@@ -83,8 +78,3 @@ The transmitter node does the following actions:
 - Transmit the data-frame when the corresponding external interrupt is triggered.
 - Act as a centralized control-panel for operation.
 - Interfacing ECU's to the user.
-
-## Contact & Queries
-
-For any queries regarding this project contact
-# CAN-Based-Vehicle-Lighting-System
